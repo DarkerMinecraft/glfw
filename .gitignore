@@ -10,6 +10,11 @@ Makefile
 *.vcxproj.user
 *.vcxproj.filters
 
+<<<<<<< HEAD
 *.workspace
 *.mk
 *.project
+=======
+/bin-int
+/bin
+>>>>>>> aa07461015ccbcfa6488ca2267b36c03ff671cde
